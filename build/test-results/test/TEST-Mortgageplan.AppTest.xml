@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Mortgageplan.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-02-21T15:06:50" hostname="Sebastian-PC" time="0.005">
+  <properties/>
+  <testcase name="testAppHasAGreeting" classname="Mortgageplan.AppTest" time="0.005"/>
+  <system-out><![CDATA[Prospect 1: Juha wants to borrow 1000.0 € for a period of 2 years and pay 72.47089977590733 € each month.
+Prospect 2: Karvinen wants to borrow 4356.0 € for a period of 6 years and pay 92.67633606225289 € each month.
+Prospect 3: Claes Månsson wants to borrow 1300.55 € for a period of 2 years and pay 130.49849354129998 € each month.
+Prospect 4: "Clarencé Andersson" wants to borrow 2000.0 € for a period of 4 years and pay 127.79530813706259 € each month.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
